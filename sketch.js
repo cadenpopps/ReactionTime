@@ -9,7 +9,7 @@ var waitTime;
 var reactTime;
 var allTimes;
 var darkMode;
-const LOADFONT = false;
+const LOADFONT = true;
 
 function preload() {
     if (LOADFONT) {
